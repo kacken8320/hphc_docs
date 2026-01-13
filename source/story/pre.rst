@@ -21,7 +21,7 @@ Dumbledore is the second most powerful wizard to ever live. Only reason he died 
 
 .. quote::
 
-    *"You flatter me," said Dumbledore calmly. "Voldemort had powers I will never have."
+	*"You flatter me," said Dumbledore calmly. "Voldemort had powers I will never have."
 	"Only because you're too - well - noble to use them."*
 
 One (and not because I can't think of more (I can't)) example of what Dumbledore did that glorified him:
