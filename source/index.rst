@@ -31,7 +31,7 @@ Harry Potter hard-coded (HPHC) is a project which tries to make the story more c
 	:maxdepth: 1
 	:caption: World
 
-	world/mayans
+	world/maya
 
 .. toctree::
 	:maxdepth: 1
