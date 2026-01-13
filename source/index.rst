@@ -24,6 +24,7 @@ Harry Potter hard-coded (HPHC) is a project which tries to make the story more c
 
 	magic-system/rme
 	magic-system/age-power
+	magic-system/power-level
 	magic-system/structs
 
 .. toctree::
