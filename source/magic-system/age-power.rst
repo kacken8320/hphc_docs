@@ -1,8 +1,10 @@
 Age-Power Correlation
 =====================
 
-The older a wizard, the more powerful they get. Power is dependent on: age, wisdom, practice, knowledge, ...<br>
-Different to muggles, wizards grow stronger in every aspect with age. (strength, height, hearing, sight, smell, reaction time, ...)<br>
+The older a wizard, the more powerful they get. Power is dependent on: age, wisdom, practice, knowledge, ...
+
+Different to muggles, wizards grow stronger in every aspect with age. (strength, height, hearing, sight, smell, reaction time, ...)
+
 This doesn't mean they grow younger and physically stronger with time, they stay old, weak and slow, until is comes to spontaneous magical skill expression.
 
 Complete Power
