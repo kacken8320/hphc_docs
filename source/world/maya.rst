@@ -18,4 +18,4 @@ The Mayans practices time magic, which means, their spells could manipulate time
 - Medium: None
 - Emotion: Exuberance
 
-The complexity of the Mayan spells consisted of the complex interplay between high-spirited festives and play as part of a particular, very precise ritual. This intertwined concept between exuberance and particular and precise timing and execution of the other rituals (dances, sacrifices, architecture) made the Mayan rituals the most complex in the history of magic.
+The complexity of the Mayan spells consisted of the intricate interplay between high-spirited festives and play as part of a particular, very precise ritual. This intertwined relationship between exuberance and exact timing and execution of the other rites (dances, sacrifices, architecture) made the Mayan rituals the most complex in the history of magic.
