@@ -19,6 +19,7 @@ Dumbledore's power and fame
 
 Dumbledore is the second most powerful wizard to ever live. Only reason he died of course, is, as McGonagall put it:
 
+.. quote::
     *"You flatter me," said Dumbledore calmly. "Voldemort had powers I will never have."
 	"Only because you're too -- well -- noble to use them."*
 
